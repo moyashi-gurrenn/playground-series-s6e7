@@ -7,3 +7,8 @@ src/*.csv
 
 #システム生成のゴミファイル
 .DS_Store
+
+#github_token
+git-token.txt
+
+*.csv
